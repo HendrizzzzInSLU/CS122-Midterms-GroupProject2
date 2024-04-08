@@ -1,5 +1,6 @@
 package mexer2.prog2.edu.slu;
 
+
 public abstract class Shape {
     private final String name;
     protected int sides;
